@@ -1,5 +1,6 @@
 # GenerateTxtFile
 Generate random numbers to the console based on user input
+
 +1 value - search for a file by name
 
 +2 value - number of lines
